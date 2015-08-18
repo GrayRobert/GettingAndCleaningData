@@ -15,7 +15,7 @@ The original data set is based on experiments that have been carried out with a 
 5. Extracted only the measurements on the mean and standard deviation for each measurement
 6. Updated the activty labels
 7. Renamed some of the column names with more descriptive names
-8. Then create a new data set grouped on activity and subject getting the average of each variable
+8. Created a new data set grouped on activity and subject getting the average of each variable
 
 
 ###Variables
