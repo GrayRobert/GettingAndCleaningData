@@ -9,7 +9,7 @@ This will produce a tidy data set as required for the Getting and Cleaning Data 
 1. Set working directory.                                                                                            
 2. Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip         
 3. Extracted data to a folder called "data" in the working directory
-4. Source the script run_analysis.R which will outpu a txt file called tidy_data.txt
+4. Source the script run_analysis.R which will output a txt file called tidy_data.txt
 
 For more details please read the CodebBook.md mark down file.
 
