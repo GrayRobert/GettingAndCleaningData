@@ -21,7 +21,7 @@ The original data set is based on experiments that have been carried out with a 
 ###Variables
 
 1.  subject.id - The unique identifier of the volunteer performing the activity (1 - 30)
-2.  activity - The type of activity performed
+2.  activity - The type of activity being performed
     +   WALKING
     +   WALKING_UPSTAIRS
     +   WALKING_DOWNSTAIRS
